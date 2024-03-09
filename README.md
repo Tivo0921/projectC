@@ -29,4 +29,5 @@ githubアカウント名をしゅんに伝え，アクセス権限をもらう
 ```git commit -m "ここに変更内容をコメント"```
 
 例：Changed life6.c file. Added manzai_life.
+
 ```git push origin main```
